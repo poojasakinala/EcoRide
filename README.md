@@ -45,7 +45,7 @@ Place your screenshots inside the `/screenshots` folder.
 Reference them as shown below:
 
 > ![Login Screen](https://github.com/poojasakinala/EcoRide/blob/26238eb5003d3ead98228778b28e9643ff1818c4/01.jpg)
-> ![Ride Finder](./screenshots/maps_screen.png)
+> ![Ride Finder](https://github.com/poojasakinala/EcoRide/blob/47b6f799fcbe99e5d3f022e86d3845fa8738f84c/03.jpg)
 
 
 ---
