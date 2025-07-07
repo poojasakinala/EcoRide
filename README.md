@@ -44,9 +44,9 @@ Log in using:
 Place your screenshots inside the `/screenshots` folder.
 Reference them as shown below:
 
-> ![Login Screen](./screenshots/login_screen.png)
+> ![Login Screen](https://github.com/poojasakinala/EcoRide/blob/26238eb5003d3ead98228778b28e9643ff1818c4/01.jpg)
 > ![Ride Finder](./screenshots/maps_screen.png)
-> ![Payment Page](./screenshots/payment_screen.png)
+
 
 ---
 
